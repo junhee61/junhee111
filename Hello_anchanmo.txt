@@ -1,5 +1,5 @@
 def GetMinMax(data):
-    
+
     min_value = max_value = data[0]
 
     for num in data:
